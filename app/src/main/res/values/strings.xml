@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HappyBirthday</string>
+    <string name="hbd_msg">Happy Birthday, Kyle.</string>
+    <string name="msg_auth">From Mike.</string>
+</resources>
